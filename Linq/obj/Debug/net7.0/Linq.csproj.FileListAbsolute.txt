@@ -1,0 +1,12 @@
+D:\Projetos\LinQExerc\Linq\bin\Debug\net7.0\Linq.deps.json
+D:\Projetos\LinQExerc\Linq\bin\Debug\net7.0\Linq.dll
+D:\Projetos\LinQExerc\Linq\bin\Debug\net7.0\Linq.pdb
+D:\Projetos\LinQExerc\Linq\obj\Debug\net7.0\Linq.csproj.AssemblyReference.cache
+D:\Projetos\LinQExerc\Linq\obj\Debug\net7.0\Linq.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\LinQExerc\Linq\obj\Debug\net7.0\Linq.AssemblyInfoInputs.cache
+D:\Projetos\LinQExerc\Linq\obj\Debug\net7.0\Linq.AssemblyInfo.cs
+D:\Projetos\LinQExerc\Linq\obj\Debug\net7.0\Linq.csproj.CoreCompileInputs.cache
+D:\Projetos\LinQExerc\Linq\obj\Debug\net7.0\Linq.dll
+D:\Projetos\LinQExerc\Linq\obj\Debug\net7.0\refint\Linq.dll
+D:\Projetos\LinQExerc\Linq\obj\Debug\net7.0\Linq.pdb
+D:\Projetos\LinQExerc\Linq\obj\Debug\net7.0\ref\Linq.dll
