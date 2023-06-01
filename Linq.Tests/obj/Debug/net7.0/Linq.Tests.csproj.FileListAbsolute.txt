@@ -100,3 +100,6 @@ D:\Projetos\LinQExerc\Linq.Tests\obj\Debug\net7.0\refint\Linq.Tests.dll
 D:\Projetos\LinQExerc\Linq.Tests\obj\Debug\net7.0\Linq.Tests.pdb
 D:\Projetos\LinQExerc\Linq.Tests\obj\Debug\net7.0\Linq.Tests.genruntimeconfig.cache
 D:\Projetos\LinQExerc\Linq.Tests\obj\Debug\net7.0\ref\Linq.Tests.dll
+D:\Projetos\LinQExerc\Linq.Tests\bin\Debug\net7.0\Linq.deps.json
+D:\Projetos\LinQExerc\Linq.Tests\bin\Debug\net7.0\Linq.runtimeconfig.json
+D:\Projetos\LinQExerc\Linq.Tests\bin\Debug\net7.0\Linq.exe

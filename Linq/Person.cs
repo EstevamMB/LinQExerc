@@ -1,4 +1,4 @@
-﻿namespace Linq;
+﻿namespace LinQExerc;
 
 public class Person {
 
