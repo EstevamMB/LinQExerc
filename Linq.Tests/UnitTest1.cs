@@ -6,7 +6,11 @@ namespace LinQExerc.Test;
 
 public class PersonTests
     {
-        private List<Person> people;
+        private List<Person> people = new List<Person>();
+
+       /* public PersonTests() {
+            Setup();
+        } */
 
         [SetUp]
         public void Setup()
@@ -43,4 +47,4 @@ public class PersonTests
             var groupByCity = people.GroupBy(person => person.City);
             Assert.AreEqual(8, groupByCity.Count());
         }
-    }
+}
