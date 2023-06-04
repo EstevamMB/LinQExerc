@@ -8,10 +8,6 @@ public class PersonTests
     {
         private List<Person> people = new List<Person>();
 
-       /* public PersonTests() {
-            Setup();
-        } */
-
         [SetUp]
         public void Setup()
         {
